@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Royale", "Test_autoFramework_ver_02\Royale.csproj", "{E1F4EC3D-6437-46EC-BD6C-0AA2909291B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Royale.Tests", "Royale.Tests\Royale.Tests.csproj", "{02E44D78-00BE-4359-9E0C-2223C853A831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F4EC3D-6437-46EC-BD6C-0AA2909291B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F4EC3D-6437-46EC-BD6C-0AA2909291B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F4EC3D-6437-46EC-BD6C-0AA2909291B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F4EC3D-6437-46EC-BD6C-0AA2909291B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E44D78-00BE-4359-9E0C-2223C853A831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E44D78-00BE-4359-9E0C-2223C853A831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E44D78-00BE-4359-9E0C-2223C853A831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E44D78-00BE-4359-9E0C-2223C853A831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CD4DA4-DC9D-4B2D-B79E-802B68465B28}
+	EndGlobalSection
+EndGlobal
